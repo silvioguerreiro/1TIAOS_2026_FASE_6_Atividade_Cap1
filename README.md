@@ -6,7 +6,7 @@
 
 # Cap 1 - O despertar da Rede Neural
 
-## 👨‍💻 Grupo 35
+## 👨‍💻 Grupo 10
 **Curso:** 1TIAOS – Fase 6
 
 ## 👨‍🎓 Integrantes
