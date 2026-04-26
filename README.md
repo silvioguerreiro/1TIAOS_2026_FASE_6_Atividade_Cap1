@@ -22,10 +22,6 @@
 
 ---
 
-> Demonstração para o cliente fictício **FarmTech Solutions** de um sistema de visão computacional capaz de reconhecer dois objetos visualmente distintos em imagens. O projeto está dividido em duas entregas que conversam entre si: a primeira customiza um modelo YOLOv5 para nossas classes; a segunda compara essa solução contra duas abordagens "concorrentes" (YOLO padrão sem fine-tuning e CNN treinada do zero).
-
----
-
 ## Como navegar este repositório
 
 Este README é apenas a **porta de entrada**. Toda a documentação técnica — passo a passo, decisões de projeto, código comentado, resultados numéricos e conclusões — está dentro dos dois notebooks Jupyter abaixo, prontos para abrir no Google Colab:
