@@ -57,6 +57,17 @@ Todo o passo a passo — montagem do Drive, validação do dataset, geração do
 
 ---
 
+## Vídeo de demonstração
+
+Demonstração de até 5 minutos do funcionamento do projeto:
+
+**▶️ [Assista no YouTube (não listado)](LINK_DO_VIDEO_AQUI)**
+
+> _Substitua o link acima após gravar e publicar o vídeo._
+
+---
+
+
 ## Entrega 2 — Comparativo entre 3 abordagens
 
 > **Pergunta de pesquisa:** o YOLO customizado é mesmo a melhor escolha pro nosso problema, ou existe abordagem mais simples (sem fine-tuning) ou mais leve (CNN do zero) que entregaria valor parecido?
