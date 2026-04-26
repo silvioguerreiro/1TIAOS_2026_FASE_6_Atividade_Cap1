@@ -97,11 +97,6 @@ Os gráficos individuais (precisão, tempo de treino em escala log, tempo de inf
 │   ├── chart_d_radar.png
 │   └── chart_panel_consolidado.png
 │
-├── dataset/                                                             ← estrutura YOLOv5
-│   ├── data.yaml                                                        ← config do YOLOv5
-│   ├── images/{train,val,test}/                                         ← 64 + 8 + 8 imagens
-│   └── labels/{train,val}/                                              ← 64 + 8 labels formato YOLO
-│
 └── entrega2/                                                            ← saídas visuais da Entrega 2
     ├── charts/                                                          ← gráficos comparativos detalhados
     ├── yolo_coco/                                                       ← detecções do YOLO padrão (COCO)
