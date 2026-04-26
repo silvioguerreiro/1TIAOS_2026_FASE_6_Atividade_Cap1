@@ -63,8 +63,6 @@ Demonstração de até 5 minutos do funcionamento do projeto:
 
 **▶️ [Assista no YouTube (não listado)](https://youtu.be/CDVI2gdkW68)**
 
-> _Substitua o link acima após gravar e publicar o vídeo._
-
 ---
 
 
